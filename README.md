@@ -1,3 +1,4 @@
+2
 1
 # Soil Project 🌱
 A modern web application built with Next.js 13 (App Router), TypeScript, and TailwindCSS, designed for soil data visualization and interactive UI components.
